@@ -29,8 +29,15 @@
 - 
 ▶️ [Watch on YouTube →](https://youtube.com/@LochanaKa)
 
-## 📈 GitHub Stats
-![Lochana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LochanaDS&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=19a8a8&icon_color=19a8a8)
+## 🚀 GitHub Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LochanaKa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LochanaKa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+
+</div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LochanaDS&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=19a8a8)
 
